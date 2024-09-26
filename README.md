@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=razputshivanshu&label=Profile%20views&color=0e75b6&style=flat" alt="razputshivanshu" /> </p>
 
-- 🌱 I’m currently learning **React Js, Node JS and Mongo DB.**
+- 🌱 I’m currently learning **React Js, Node JS, Express Js and Mongo DB.**
 
 - 📫 How to reach me **work.shivanshu29@gmail.com**
 
